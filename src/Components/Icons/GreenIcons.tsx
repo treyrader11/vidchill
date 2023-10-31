@@ -12,8 +12,8 @@ export function GreenPlay(props: React.SVGProps<SVGSVGElement>) {
       <path
         d="M24.8333 24.8212C24.8333 23.6882 24.8333 23.1217 25.0696 22.8094C25.2754 22.5374 25.5899 22.369 25.9304 22.3487C26.3213 22.3253 26.7927 22.6396 27.7354 23.2681L40.0036 31.4468C40.7825 31.9662 41.172 32.2258 41.3077 32.5531C41.4264 32.8392 41.4264 33.1608 41.3077 33.4469C41.172 33.7742 40.7825 34.0339 40.0036 34.5532L27.7354 42.7319C26.7927 43.3604 26.3213 43.6747 25.9304 43.6513C25.5899 43.631 25.2754 43.4626 25.0696 43.1906C24.8333 42.8783 24.8333 42.3118 24.8333 41.1788V24.8212Z"
         stroke="#11999E"
-        stroke-width="2"
-        stroke-linecap="round"
+        strokeWidth="2"
+        strokeLinecap="round"
         strokeLinejoin="round"
       />
       <rect
@@ -23,7 +23,7 @@ export function GreenPlay(props: React.SVGProps<SVGSVGElement>) {
         height="56"
         rx="28"
         stroke="#F0FDF9"
-        stroke-width="10"
+        strokeWidth="10"
       />
     </svg>
   );
@@ -74,8 +74,8 @@ export function GreenPeople(props: React.SVGProps<SVGSVGElement>) {
       <path
         d="M45.1668 43.5V41.1667C45.1668 38.9922 43.6796 37.1651 41.6668 36.647M37.5835 22.8392C39.2937 23.5315 40.5002 25.2082 40.5002 27.1667C40.5002 29.1251 39.2937 30.8018 37.5835 31.4941M39.3335 43.5C39.3335 41.3256 39.3335 40.2384 38.9783 39.3808C38.5046 38.2373 37.5961 37.3289 36.4527 36.8552C35.5951 36.5 34.5079 36.5 32.3335 36.5H28.8335C26.6591 36.5 25.5719 36.5 24.7143 36.8552C23.5708 37.3289 22.6624 38.2373 22.1887 39.3808C21.8335 40.2384 21.8335 41.3256 21.8335 43.5M35.2502 27.1667C35.2502 29.744 33.1608 31.8333 30.5835 31.8333C28.0062 31.8333 25.9168 29.744 25.9168 27.1667C25.9168 24.5893 28.0062 22.5 30.5835 22.5C33.1608 22.5 35.2502 24.5893 35.2502 27.1667Z"
         stroke="#11999E"
-        stroke-width="2"
-        stroke-linecap="round"
+        strokeWidth="2"
+        strokeLinecap="round"
         strokeLinejoin="round"
       />
       <rect
@@ -85,7 +85,7 @@ export function GreenPeople(props: React.SVGProps<SVGSVGElement>) {
         height="56"
         rx="28"
         stroke="#F0FDF9"
-        stroke-width="10"
+        strokeWidth="10"
       />
     </svg>
   );
@@ -131,12 +131,12 @@ export function GreenHeart(props: React.SVGProps<SVGSVGElement>) {
     >
       <rect x="4" y="4" width="48" height="48" rx="24" fill="#CCFBEF" />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M27.9932 21.1358C25.9938 18.7984 22.6597 18.1696 20.1547 20.31C17.6496 22.4504 17.297 26.029 19.2642 28.5604C20.8998 30.6651 25.8498 35.1041 27.4721 36.5408C27.6536 36.7016 27.7444 36.7819 27.8502 36.8135C27.9426 36.8411 28.0437 36.8411 28.1361 36.8135C28.2419 36.7819 28.3327 36.7016 28.5142 36.5408C30.1365 35.1041 35.0865 30.6651 36.7221 28.5604C38.6893 26.029 38.3797 22.4279 35.8316 20.31C33.2835 18.1922 29.9925 18.7984 27.9932 21.1358Z"
         stroke="#11999E"
-        stroke-width="2"
-        stroke-linecap="round"
+        strokeWidth="2"
+        strokeLinecap="round"
         strokeLinejoin="round"
       />
       <rect
@@ -146,7 +146,7 @@ export function GreenHeart(props: React.SVGProps<SVGSVGElement>) {
         height="48"
         rx="24"
         stroke="#F0FDF9"
-        stroke-width="8"
+        strokeWidth="8"
       />
     </svg>
   );
