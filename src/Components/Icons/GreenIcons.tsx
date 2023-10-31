@@ -14,7 +14,7 @@ export function GreenPlay(props: React.SVGProps<SVGSVGElement>) {
         stroke="#11999E"
         stroke-width="2"
         stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinejoin="round"
       />
       <rect
         x="5"
@@ -43,9 +43,9 @@ export function GreenHorn(props: React.SVGProps<SVGSVGElement>) {
       <path
         d="M24.1668 35.3335L26.0039 42.6818C26.0556 42.8885 26.0814 42.9918 26.112 43.082C26.4105 43.9634 27.2043 44.5832 28.1318 44.659C28.2267 44.6668 28.3332 44.6668 28.5463 44.6668C28.813 44.6668 28.9464 44.6668 29.0588 44.6559C30.1693 44.5482 31.0482 43.6693 31.1559 42.5587C31.1668 42.4464 31.1668 42.313 31.1668 42.0462V25.4168M41.0835 34.7501C43.3387 34.7501 45.1668 32.922 45.1668 30.6668C45.1668 28.4116 43.3387 26.5835 41.0835 26.5835M31.4585 25.4168H27.0835C24.184 25.4168 21.8335 27.7673 21.8335 30.6668C21.8335 33.5663 24.184 35.9168 27.0835 35.9168H31.4585C33.5193 35.9168 36.0403 37.0215 37.9852 38.0817C39.1198 38.7002 39.6871 39.0095 40.0587 38.964C40.4032 38.9218 40.6637 38.7671 40.8657 38.4848C41.0835 38.1803 41.0835 37.5711 41.0835 36.3528V24.9808C41.0835 23.7625 41.0835 23.1533 40.8657 22.8488C40.6637 22.5665 40.4032 22.4118 40.0587 22.3696C39.6871 22.3241 39.1198 22.6334 37.9852 23.2519C36.0403 24.3121 33.5193 25.4168 31.4585 25.4168Z"
         stroke="#11999E"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
       <rect
         x="5.5"
@@ -54,7 +54,7 @@ export function GreenHorn(props: React.SVGProps<SVGSVGElement>) {
         height="56"
         rx="28"
         stroke="#F0FDF9"
-        stroke-width="10"
+        strokeWidth="10"
       />
     </svg>
   );
@@ -76,7 +76,7 @@ export function GreenPeople(props: React.SVGProps<SVGSVGElement>) {
         stroke="#11999E"
         stroke-width="2"
         stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinejoin="round"
       />
       <rect
         x="5.5"
@@ -104,8 +104,8 @@ export function GreenUserCheck(props: React.SVGProps<SVGSVGElement>) {
         d="M28 31.5H23.5C22.1044 31.5 21.4067 31.5 20.8389 31.6722C19.5605 32.06 18.56 33.0605 18.1722 34.3389C18 34.9067 18 35.6044 18 37M32 34L34 36L38 32M30.5 23.5C30.5 25.9853 28.4853 28 26 28C23.5147 28 21.5 25.9853 21.5 23.5C21.5 21.0147 23.5147 19 26 19C28.4853 19 30.5 21.0147 30.5 23.5Z"
         stroke="#11999E"
         stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
       <rect
         x="4"
@@ -114,7 +114,7 @@ export function GreenUserCheck(props: React.SVGProps<SVGSVGElement>) {
         height="48"
         rx="24"
         stroke="#F0FDF9"
-        stroke-width="8"
+        strokeWidth="8"
       />
     </svg>
   );
@@ -137,7 +137,7 @@ export function GreenHeart(props: React.SVGProps<SVGSVGElement>) {
         stroke="#11999E"
         stroke-width="2"
         stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinejoin="round"
       />
       <rect
         x="4"
@@ -164,16 +164,16 @@ export function GreenEye(props: React.SVGProps<SVGSVGElement>) {
       <path
         d="M18.4201 28.7132C18.2839 28.4975 18.2158 28.3897 18.1777 28.2234C18.1491 28.0985 18.1491 27.9015 18.1777 27.7766C18.2158 27.6103 18.2839 27.5025 18.4201 27.2868C19.5455 25.5048 22.8954 21 28.0004 21C33.1054 21 36.4553 25.5048 37.5807 27.2868C37.7169 27.5025 37.785 27.6103 37.8231 27.7766C37.8517 27.9015 37.8517 28.0985 37.8231 28.2234C37.785 28.3897 37.7169 28.4975 37.5807 28.7132C36.4553 30.4952 33.1054 35 28.0004 35C22.8954 35 19.5455 30.4952 18.4201 28.7132Z"
         stroke="#11999E"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
       <path
         d="M28.0004 31C29.6573 31 31.0004 29.6569 31.0004 28C31.0004 26.3431 29.6573 25 28.0004 25C26.3435 25 25.0004 26.3431 25.0004 28C25.0004 29.6569 26.3435 31 28.0004 31Z"
         stroke="#11999E"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
       <rect
         x="4"
@@ -182,7 +182,7 @@ export function GreenEye(props: React.SVGProps<SVGSVGElement>) {
         height="48"
         rx="24"
         stroke="#F0FDF9"
-        stroke-width="8"
+        strokeWidth="8"
       />
     </svg>
   );

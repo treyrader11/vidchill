@@ -12,7 +12,7 @@ export function ChevronDown(props: React.SVGProps<SVGSVGElement>) {
         stroke="#98A2B3"
         stroke-width="2"
         stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinejoin="round"
       />
     </svg>
   );
@@ -33,7 +33,7 @@ export function ChevronUp(props: React.SVGProps<SVGSVGElement>) {
           stroke="#98A2B3"
           stroke-width="2"
           stroke-linecap="round"
-          stroke-linejoin="round"
+          strokeLinejoin="round"
         />
       </g>
       <defs>

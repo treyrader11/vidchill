@@ -11,7 +11,7 @@ export default function Close(props: React.SVGProps<SVGSVGElement>) {
         stroke="#667085"
         stroke-width="2"
         stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinejoin="round"
       />
     </svg>
   );
